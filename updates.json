@@ -1,0 +1,11 @@
+{
+  "win": {
+    "sums_url": "BerryStreet-updatetest-win.sums", 
+    "version": "f55905027d75bb80b9390a4656e61162a98f5ae8f9a03c46bb6570f1b2c039d4", 
+    "zsync_url": "BerryStreet-updatetest-win.zsync", 
+    "json_url": "BerryStreet-updatetest-win.update.json", 
+    "pretty_version": "updatetest", 
+    "sums_size": 18840, 
+    "digest": "d59fc256786632c60c71e29b9212d76cfac1cbdf0b8e9ed176729f8e88bfd433"
+  }
+}
